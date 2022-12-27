@@ -1,5 +1,7 @@
-# 478-marketbusters
-## CSE 478 Fall 2022 Group Project
+# Team-marketbusters
+### - Ashu, Josh, Ethan, and Zach
+## CSE 578 Fall 2022 Group Project
+
 
 This semester, we researched the idea of correlation throughout various markets and assets. More specifically, we designed a "Correlation Moving Average Indicator", what we have coined "CORRMA", and created various algorithms to test if it may be used in a profitable trading manner. 
 
